@@ -8,7 +8,7 @@ h2{
 	font-family: fantasy;
 }
 .clBack{
-	font-family: monospace;
+	font-family: Georgia, 'Times New Roman', Times, serif;
 	color: blue;
 }
 p{
@@ -23,7 +23,7 @@ p{
 	height: 40%;
 }
 p{
-	font-family: cursive;
+	font-family: monospace;
 }
 ui{
 	font-family: sans-serif;
