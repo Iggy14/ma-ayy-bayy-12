@@ -1,0 +1,30 @@
+body{
+	background-color:#ff9a8d;
+	
+}
+h2{
+	text-align: center;
+	color:#4d5198;
+	font-family: fantasy;
+}
+.clBack{
+	font-family: monospace;
+	color: blue;
+}
+p{
+	color:#4a536b ;
+}
+#idHlpp{
+	text-align: center;
+	margin: inherit;
+}
+.clHlpp{
+	width: 40%;
+	height: 40%;
+}
+p{
+	font-family: cursive;
+}
+ui{
+	font-family: sans-serif;
+}

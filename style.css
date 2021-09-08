@@ -1,0 +1,38 @@
+body{
+	background: linear-gradient(to right,lightcoral,lightblue);
+	font-family: sans-serif;
+}
+h1{
+	text-align: center;
+	color: #4d5198;
+	letter-spacing: 0.25rem;
+}
+.clImgbd{
+	width: 230px;
+	height:190px;
+	top: 21%;
+	left: 40%;
+	position: absolute;
+	margin: 20px;
+}
+.clImgpagoda{
+	width: 230px;
+	height: 200px;
+	position: absolute;
+}
+.cl1{
+	font-weight: bold;
+	color: #316879;
+	text-align: center;
+}
+li a{
+	font-weight: bold;
+	color: #097770;
+	text-align: center;
+	text-decoration: inherit;
+	padding:5px 5px;
+	display: inline-block;
+}
+li a:hover{
+	background-color: orangered;
+}
